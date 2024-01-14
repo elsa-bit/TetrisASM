@@ -1,0 +1,7 @@
+.idea
+
+*.obj
+*.exe
+
+LINK.EXE
+MASM.EXE
